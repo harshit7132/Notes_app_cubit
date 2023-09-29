@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:notes_app_cubit_/cubit.dart';
+
+import '../cubit_by_List/cubit.dart';
 
 class SecondPage extends StatefulWidget {
   const SecondPage({super.key});
